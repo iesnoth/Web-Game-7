@@ -16,7 +16,7 @@ await npc.walkNorth(400)
 moveNPC()
 }
 //read about recursion
-
+moveNPC()
 // Create the inventory
 const inventory = newInventory()
 move(inventory).to(0, 0)
